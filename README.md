@@ -34,6 +34,11 @@ Aqui está uma lista de projetos amigáveis e bem documentados para contribuir:
 - **Stack:** HTML, SCSS e JavaScript
 - **Contribuições desejadas:** Código, documentação, melhorias no design da interface. 
 
+### [GitFichas](https://gitfichas.com/)
+- **Descrição:** Coleção de fichas de estudo sobre Git.
+- **Repositório no GitHub:** [GitFichas](https://github.com/jtemporal/gitfichas)
+- **Stack:** HTML, Markdown, Jekyll, Mermaid
+- **Contribuições desejadas:** Código, documentação, traduções e afins.
 
 ## Contribua
 Se você conhece algum projeto open source que seja acolhedor para novas pessoas contribuidoras ou quer nos ajudar a expandir essa lista, fique à vontade para enviar um pull request ou abrir uma issue.
